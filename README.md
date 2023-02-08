@@ -16,4 +16,8 @@ b. Execute manage.py file using "python manage.py" in the terminal/command promp
 c. The script will send an email to friends with the specified message.
 d. Schedule the script to run automatically using task scheduler (Windows) or cron jobs (Linux).
 
-## Screen shots 
+## Output 
+
+https://user-images.githubusercontent.com/89354259/217598286-34c8ff4a-79e0-4c9c-a2e0-8bfde68003a3.mp4
+
+
