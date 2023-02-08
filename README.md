@@ -21,3 +21,10 @@ d. Schedule the script to run automatically using task scheduler (Windows) or cr
 https://user-images.githubusercontent.com/89354259/217598286-34c8ff4a-79e0-4c9c-a2e0-8bfde68003a3.mp4
 
 
+## About Me
+
+I'm a programmer with experience in multiple programming languages, including Python, Java, C, C++, Javascript, HTML, and CSS.
+
+## Contact
+
+For support or feedback, please reach out to me at vijaykumarchauhan6465@gmail.com
